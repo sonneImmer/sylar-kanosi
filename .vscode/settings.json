@@ -2,6 +2,8 @@
     "files.associations": {
         "*.h": "cpp",
         "cmath": "c",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "tuple": "c",
+        "sstream": "c"
     }
 }

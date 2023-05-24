@@ -3,20 +3,24 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceRoot}/**",
-                "/usr/include/c++/11",
-                "/usr/include"
+                "${workspaceFolder}/**",
+                "/usr/include/c++/11/**",
+                "/usr/include/**",
+                "/home/zhukangxi/samsung_870qvo/C++_learning/sylar-kanosi",
+                "/home/zhukangxi/samsung_870qvo/C++_learning/sylar-kanosi/sylar"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/g++",
-            // "cStandard": "c17",
-            // "cppStandard": "c++14",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
             "intelliSenseMode": "gcc-x64",
             "browse": {
                 "path": [
-                    "${workspaceRoot}/**",
-                    "/usr/include/c++/11",
-                    "/usr/include"
+                    "${workspaceFolder}/**",
+                    "/usr/include/c++/11/**",
+                    "/usr/include/**",
+                    "/home/zhukangxi/samsung_870qvo/C++_learning/sylar-kanosi",
+                    "/home/zhukangxi/samsung_870qvo/C++_learning/sylar-kanosi/sylar"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
